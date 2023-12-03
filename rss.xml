@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Etno kuća Kljunac</title>
+  <link>https://filipsljivic1.github.io/Etno-kuca-Kljunac1/</link>
+  <description>Etno kuća</description>
+  <item>
+    <title>Etno kuća Kljunac Meni</title>
+    <link>https://filipsljivic1.github.io/Etno-kuca-Kljunac1/menu.html</link>
+    <description>Meni restorana</description>
+  </item>
+  <item>
+    <title>Etno kuća Kljunac Galerija</title>
+    <link>https://filipsljivic1.github.io/Etno-kuca-Kljunac1/galerija.html</link>
+    <description>Galerija restorana</description>
+  </item>
+</channel>
+
+</rss>
